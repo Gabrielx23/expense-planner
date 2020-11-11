@@ -1,4 +1,5 @@
 # expense-planner
+Expense planner has been made to improve finance planning. User can predict e.g. monthly expenses and compare them with actual balance. Application contains firebase auth system and firestore. Technologies: vue with typescript, vuetify, firestore.
 
 ## Project setup
 ```
